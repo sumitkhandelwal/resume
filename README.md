@@ -1,2 +1,2 @@
-# resume
+# Resume
 Sumit Khandelwal Resume
